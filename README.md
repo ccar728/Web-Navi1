@@ -1,2 +1,2 @@
 # Web-Navi1
-https://ccar728.github.io/Web-Navi1/dist/index.html
+https://ccar728.github.io/web-navi-demo1/dist/index.html
